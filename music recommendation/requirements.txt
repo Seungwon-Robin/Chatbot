@@ -1,0 +1,8 @@
+google-generativeai
+pandas
+numpy
+faiss-cpu
+pyyaml
+Flask
+sentence-transformers
+torch
